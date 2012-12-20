@@ -2,7 +2,7 @@
  * Light-Weight Type/Class-based inheritance for JavaScript
  *
  * instances.of.js
- * Copyright (c) 2013 Wil Moore III <wil.moore@wilmoore.com>
+ * Copyright (c) 2012 Wil Moore III <wil.moore@wilmoore.com>
  * MIT Licensed
  */
 
