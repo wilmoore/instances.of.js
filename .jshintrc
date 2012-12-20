@@ -1,0 +1,15 @@
+{
+    "indent"        : 2,        // Specify indentation spacing
+    "curly"         : true,     // Require {} for every new block or scope.
+    "noarg"         : true,     // Prohibit use of `arguments.caller` and `arguments.callee`.
+    "undef"         : true,     // Require all non-global variables be declared before they are used.
+    "strict"        : true,     // Require `use strict` pragma in every file.
+    "trailing"      : true,     // Prohibit trailing whitespaces.
+    "asi"           : true,     // Tolerate Automatic Semicolon Insertion (no semicolons).
+    "eqnull"        : false,    // Tolerate use of `== null`.
+    "es5"           : true,     // Allow EcmaScript 5 syntax.
+    "expr"          : true,     // Tolerate `ExpressionStatement` as Programs.
+    "laxcomma"      : true,     // Suppress warnings about comma-first coding style.
+    "node"          : true,     // Enable globals available when code is running inside of the NodeJS runtime environment.
+    "nomen"         : false,    // Prohibit use of initial or trailing underbars in names.
+}

@@ -1,0 +1,25 @@
+{
+  "name": "instances.of.js",
+  "version": "0.0.0",
+  "description": "Light-Weight Type/Class-based inheritance for JavaScript",
+  "main": "instances.of.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/wilmoore/instances.of.js"
+  },
+  "keywords": [
+    "inheritance",
+    "instances",
+    "instanceof",
+    "super"
+  ],
+  "author": "Wil Moore III <wil.moore@wilmoore.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.7.4",
+    "chai":  "*"
+  }
+}
